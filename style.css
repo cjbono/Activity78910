@@ -9,7 +9,7 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.5; /*1em = 2inches */
-    background: url('../images/hero_image.jpg') no-repeat center center/
+    background: url('images/hero_image.jpg') no-repeat center center/
     cover;
     height: 100vh;
 }
@@ -161,7 +161,7 @@ padding: 20px;
    
 }
 #testimonials {
-  background: url("/images/laptop-2557571.jpg") no-repeat center center;
+  background: url("images/laptop-2557571.jpg") no-repeat center center;
   height: 700px;
   overflow: hidden;
   margin-top: 350px;
